@@ -48,16 +48,35 @@ Atlantis is a management game that tests the player’s ability to foresee, plan
 
 ## Screenshots 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/68460929/129488361-7315ab31-3ba4-402d-a0d9-25ce0e0adc32.png">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488361-7315ab31-3ba4-402d-a0d9-25ce0e0adc32.png">
 </p>
-![2 (1)](https://user-images.githubusercontent.com/68460929/129488331-2c927d8a-af51-4a84-bcf2-48baf4891c7f.png)
-![3](https://user-images.githubusercontent.com/68460929/129488334-ce0d6469-803e-4c14-8875-98d1af4110ff.png)
-![4](https://user-images.githubusercontent.com/68460929/129488335-eb91a12a-f466-416f-8f52-4272585f941d.png)
-![5](https://user-images.githubusercontent.com/68460929/129488336-682b6563-fd74-4ffe-af64-b6d91f0c479f.png)
-![6](https://user-images.githubusercontent.com/68460929/129488337-bdf6a1eb-705e-43ef-b417-91b40d93741a.png)
-![7](https://user-images.githubusercontent.com/68460929/129488341-d96c5df7-5641-49b5-bc59-b395bc8a58fd.png)
-![8](https://user-images.githubusercontent.com/68460929/129488345-97ec530c-dc4b-40db-81aa-f7945fea54df.png)
-![9](https://user-images.githubusercontent.com/68460929/129488338-f1d07688-f293-4a42-ae3e-8608a2d5faed.png)
-![10](https://user-images.githubusercontent.com/6846092/129488339-14a9b36b-8018-46d2-8c7f-8e4e5316601c.png)
-![11](https://user-images.githubusercontent.com/68460929/129488349-a8464cca-04a5-4d05-ad47-09a33f3f7d93.png)
-
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488331-2c927d8a-af51-4a84-bcf2-48baf4891c7f.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488334-ce0d6469-803e-4c14-8875-98d1af4110ff.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488335-eb91a12a-f466-416f-8f52-4272585f941d.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488336-682b6563-fd74-4ffe-af64-b6d91f0c479f.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488337-bdf6a1eb-705e-43ef-b417-91b40d93741a.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488341-d96c5df7-5641-49b5-bc59-b395bc8a58fd.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488345-97ec530c-dc4b-40db-81aa-f7945fea54df.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488338-f1d07688-f293-4a42-ae3e-8608a2d5faed.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488599-f75f8d04-b815-48b1-9857-7d0ed1c9e02e.png">
+</p>
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/68460929/129488349-a8464cca-04a5-4d05-ad47-09a33f3f7d93.png">
+</p>
