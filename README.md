@@ -47,7 +47,9 @@ Atlantis is a management game that tests the player’s ability to foresee, plan
 •	 Graphics Card (Not necessary) <br>
 
 ## Screenshots 
-![1](https://user-images.githubusercontent.com/68460929/129488361-7315ab31-3ba4-402d-a0d9-25ce0e0adc32.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/68460929/129488361-7315ab31-3ba4-402d-a0d9-25ce0e0adc32.png">
+</p>
 ![2 (1)](https://user-images.githubusercontent.com/68460929/129488331-2c927d8a-af51-4a84-bcf2-48baf4891c7f.png)
 ![3](https://user-images.githubusercontent.com/68460929/129488334-ce0d6469-803e-4c14-8875-98d1af4110ff.png)
 ![4](https://user-images.githubusercontent.com/68460929/129488335-eb91a12a-f466-416f-8f52-4272585f941d.png)
