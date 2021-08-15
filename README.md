@@ -5,46 +5,46 @@ A full Management Game developed using C++ .
 Atlantis is a management game that tests the player’s ability to foresee, plan and productively manage time. The player is the archaeologist who has to renew and re-establish a city and develop it. But this is not as easy as it sounds for there are many deadly traps. The city has limited resources which can only be saved and balanced with proper planning. If the player is a little careless he might get stuck for a while when a resource has got depleted from which recovery is difficult. Secondly the player should also take care of the ecosystem ,which if he misses to take care the player will loose the city altogether. Furthermore the land is prone to disasters!!! Yes that is right. The player also has to save his city from disasters for which the player has to build a wall enclosing the city and protecting it from disasters.
 
 ## File Description
-•	S3.cpp
+•	S3.cpp :
   The code containing the driver function.
 
-•	S3GAME.H
+•	S3GAME.H :
   The header file containing the functions which links the functions and classes from the header files and basically manages the game.
 
-•	S3TOOLS.H
+•	S3TOOLS.H :
   The header file containing the helper functions for string manipulations , ouput formatting , drawing tools (thick arcs,lines,etc.),etc.
 
-•	S3goalma.H
+•	S3goalma.H :
   The header file that contains the functions responsible for loading the player details, road, house, and trees from the respective binary files.
 
-•	S3goalc.H
+•	S3goalc.H :
   The  header file containing functions responsible for reading and displaying the goals from “GOALDATA.dat”.
 
-•	HOUSE.dat
+•	HOUSE.dat :
   The binary file that contains the position and status of the houses and plots for each player.
 
-•	TREE.dat
+•	TREE.dat :
   The binary file that contains the position and status of the trees  for each player.
 
-•	ROADS.dat
+•	ROADS.dat :
   The binary file that contains the layout of the roads   for each player.
-
-•	GOALDATA.dat
+  
+•	GOALDATA.dat : 
   The binary file that contains all the goals. 
 
-•	GOALS.dat
+•	GOALS.dat :
   The binary file that contains the current goal details and status of each goal of each player.
 
-•	PLAYER.dat
+•	PLAYER.dat :
   The binary file that contains the amount of resources,  score, level, etc of each player.
 
 ## System  Requirements
 
-•	 Windows 7 (or above)
-•	 512 Mb RAM
-•	 C++ compiler
-•	 Disk Space – 512 Mb
-•	 Graphics Card (Not necessary)
+•	 Windows 7 (or above) <br>
+•	 512 Mb RAM <br>
+•	 C++ compiler <br>
+•	 Disk Space – 512 Mb <br>
+•	 Graphics Card (Not necessary) <br>
 
 ## Screenshots 
 ![1](https://user-images.githubusercontent.com/68460929/129488361-7315ab31-3ba4-402d-a0d9-25ce0e0adc32.png)
